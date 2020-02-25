@@ -51,8 +51,9 @@ DROP DATABASE dbname;
 
 ```
 SHOW TABLES;
-```	
-``
+```
+
+```
 DROP TABLE table_name;
 ```
 
