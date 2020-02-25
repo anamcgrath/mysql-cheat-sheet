@@ -72,8 +72,9 @@ SELECT * FROM table WHERE column > number;
 ### Examples: 
 ```
 	SELECT * FROM employees WHERE name LIKE ‘Ana%’;
-	```
-	```
+```
+
+```
 	SELECT * FROM employees WHERE id = 2;
 ```
 	
